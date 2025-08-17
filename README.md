@@ -20,25 +20,6 @@ This project is built using the following technologies:
 
 ---
 
-## 🏗️ Project Structure
-
-/project-root
-├── App.js # Root entry
-├── metro.config.js # Metro bundler config (Expo SDK 53 fix)
-├── /network
-│ └── networkHandler.js # API handler (axios)
-├── /store
-│ ├── orderBook/
-│ │ ├── actions.js
-│ │ ├── reducer.js
-│ │ └── sagas.js
-│ └── index.js # Redux setup
-├── /screens
-│ └── OrderBook.js # Main order book UI
-└── package.json
-
----
-
 ## 📡 Features
 
 - **Live Data** – Streams bids & asks directly from Bitfinex via WebSockets.  
