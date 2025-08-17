@@ -57,13 +57,13 @@ npx expo start
 
 Open the Order Book screen.
 
-Tap ➕ or ➖ to change price precision.
+Tap plus(+) or minus(➖) signs to change price precision.
 
 Green (bids) and Red (asks) columns update in real-time.
 
 Depth bars show relative market liquidity.
 
-**⚡ Performance Optimizations**
+**Performance Optimizations**
 
 Redux-Saga handles streaming efficiently.
 
@@ -73,7 +73,7 @@ React.memo prevents re-render of unchanged rows.
 
 useTransition makes precision updates smoother.
 
-**📚 Reference**
+**Reference**
 
 Bitfinex API Docs
 Expo Documentation
