@@ -1,4 +1,4 @@
-# 📊 Bitfinex Order Book (React Native + Expo)
+# Bitfinex Order Book (React Native + Expo)
 
 A **real-time cryptocurrency order book viewer** built with **React Native (Expo SDK 53)**.  
 The app streams live **bids** and **asks** from the **Bitfinex API** and displays them with  
@@ -6,7 +6,7 @@ The app streams live **bids** and **asks** from the **Bitfinex API** and display
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 This project is built using the following technologies:
 
@@ -30,7 +30,7 @@ This project is built using the following technologies:
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 
 1. **Create a new Expo project** (or clone this repo):
 
